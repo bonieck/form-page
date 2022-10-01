@@ -165,6 +165,11 @@ form.sign-up-form{
 
 }
 
+.social-icon i{
+    height: 23px;
+    width: 23px;
+}
+
 .social-icon:hover{
     color: #104d8a;
     border-color: #104d8a;
